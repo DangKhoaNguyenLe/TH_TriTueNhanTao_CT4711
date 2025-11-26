@@ -1,3 +1,6 @@
+#THUAT TOAN TIM KIEM DOI KHANG N×N
+#NGUYEN LE DANG KHOA
+
 from ast import Pow
 import os, math
 import sys
@@ -154,4 +157,5 @@ def main():
             break
         
 if __name__ == "__main__":
+
     main()
